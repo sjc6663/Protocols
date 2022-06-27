@@ -1,1 +1,3 @@
-# DNA Quantification - Qubit
+# DNA Quantification with Qubit
+
+## Theory
