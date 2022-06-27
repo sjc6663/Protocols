@@ -4,7 +4,7 @@
 Protocol 1: [DNA Extraction - Fecal](https://github.com/sjc6663/Protocols/blob/main/DNA_Extraction_Microbiome_Fecal.md)  
 Protocol 2: [DNA Extraction - Bacteria](https://github.com/sjc6663/Protocols/blob/main/DNA_Extraction_Bacteria.md)  
 Protocol 3: [DNA Quantification - Nanodrop](https://github.com/sjc6663/Protocols/blob/main/Quantification_Nanodrop.md)  
-Protocol 4: [DNA Quantification - Qubit]  
+Protocol 4: [DNA Quantification - Qubit](https://github.com/sjc6663/Protocols/blob/main/wetlab-protocols/Quantification_Qubit.md)  
 Protocol 5: [16S PCR](https://github.com/sjc6663/Protocols/blob/main/16S_PCR.md)  
 Protocol 6: [Agarose Gel Electrophoresis]  
 Protocol 7: [AMPure Purification]  
