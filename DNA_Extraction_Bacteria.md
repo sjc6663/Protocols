@@ -1,4 +1,4 @@
-# DNA Extraction MagMAX Microbiome - Fecal
+# DNA Extraction MagMAX Microbiome - Bacteria
 
 ## Theory
 This protocol is for the extraction of DNA from non-fecal samples including bacteria cultures, yeast cultures, soil samples, rumen digesta, biofluid samples, skin swabs, or buccal swabs. 
