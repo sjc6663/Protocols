@@ -102,7 +102,7 @@ Invitrogen UltraPure Water | 40mL
 
 ### Add Bead Binding Mix
 
-7. When prompted, (~20 minutes after start) remove the sample plate and add 520uL of bead binding mix to each sample well. 
+7. When prompted, (~20 minutes after start) remove the sample plate and add 520uL of bead binding mix to each sample well. ⚠️ This solution is very viscous. Use a fresh pipette tip for each well.
 8. Place the plate back in the instrument and press "Start."
 9. After the program completes, you will be prompted to unload your plates. Keep the elution plate, seal with fresh plate film and store at 4°C. **If storing for longer term, transfer elution to nonstick DNA tubes and store in the -80°C freezer.**
 10. All other plates can be discarded in the biohazard waste bin. 
