@@ -10,7 +10,7 @@ In order to work with DNA, we need to know how much DNA we have. Nanodrop is a t
 - [ ] Pipette Tips (10uL)
 - [ ] MagMAX Microbiome Elution Buffer
 
-*The Nanodrop is located in room 321D. All supplies can be loaded on the small black cart and taken over there or carried.*
+*The Nanodrop is located in room 323C. All supplies can be loaded on the small black cart and taken over there or carried.*
 
 ## Quantification
 
