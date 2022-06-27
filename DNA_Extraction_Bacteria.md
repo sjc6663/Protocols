@@ -1,7 +1,7 @@
 # DNA Extraction MagMAX Microbiome - Fecal
 
 ## Theory
-This protocol is for the extraction of DNA from fecal samples including fresh fecal samples, frozen fecal samples, liquid fecal samples, and fecal swabs. 
+This protocol is for the extraction of DNA from non-fecal samples including bacteria cultures, yeast cultures, soil samples, rumen digesta, biofluid samples, skin swabs, or buccal swabs. 
 
 ## Prepare Your Workspace
 You will be doing the DNA plate and sample preparation in the biological safety cabinet to keep the environment around you as sterile as possible. Extraction will be done by the KingFisher Flex in the lab. 
@@ -44,7 +44,7 @@ You will be doing the DNA plate and sample preparation in the biological safety 
 Sample Type | Amount to Add
 --------------------------------------|--------------------------------------
 Bacteria/Yeast Culture | Remove 500uL of the prepared culture, and then place in the prepared bead tube.
-Soil Samples | Weigh out 200-250mg and place in prepared bead tube.
+Soil Samples/Rumen Digesta | Weigh out 200-250mg and place in prepared bead tube.
 Biofluid or Liquid Sample | Remove 400-500uL and place in prepared bead tube.
 Skin/Buccal Swab | Remove plastic stick and place in prepared bead tube.
 
