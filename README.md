@@ -18,7 +18,7 @@ Protocol 12: [Making Glycerol Stocks](https://github.com/sjc6663/Protocols/blob/
 Protocol 13: [ELISA](https://github.com/sjc6663/Protocols/blob/main/wetlab-protocols/ELISA-dublin.md)  
 
 ### 16S Library Prep Protocols  
-Protocol 14: [Indexing PCR]  
+Protocol 14: [Indexing PCR](https://github.com/sjc6663/Protocols/blob/main/16s-library-prep/indexing-pcr.md)  
 Protocol 15: [Pooling]  
 Protocol 16: [Clean Up]  
 Protocol 17: [Library Quantification and QC]  
