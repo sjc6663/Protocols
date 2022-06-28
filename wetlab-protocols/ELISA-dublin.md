@@ -11,6 +11,11 @@
 - [ ] Pipette Tips (100uL, 1000uL)
 - [ ] VWR Marker
 - [ ] Plate Seals
+- [ ] Serological Pipette
+- [ ] Serological Pipette Tips (50mL, 25mL, 5mL)
+- [ ] 50mL Conical Tubes
+- [ ] Glass Flask
+- [ ] 
 
 ## Prepare Solutions
 
