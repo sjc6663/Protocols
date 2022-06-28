@@ -1,5 +1,7 @@
 # Indexing PCR
 
+*This protocol has been adapted from the protocols of Jordan Bisanz Laboratory at the Pennsylvania State University.*
+
 ## Prepare Your Workspace
 
 - [ ] Turn on the PCR Clean Hood blower and white light. 
