@@ -27,4 +27,4 @@ Protocol 17: [Library Quantification and QC]
 Protocol 00: [Basic 16S Procedure](https://github.com/sjc6663/Protocols/blob/main/bioinformatics/basic-16s.md)
 
 ## Archived Protocols 
-Protocol A: [DNA Extraction - CORE Kit](https://github.com/sjc6663/Protocols/blob/main/archived-protocols/core-extraction.md)
+Protocol A: [DNA Extraction - MagMAX CORE Kit](https://github.com/sjc6663/Protocols/blob/main/archived-protocols/core-extraction.md)
