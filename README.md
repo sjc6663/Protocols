@@ -12,7 +12,7 @@ Protocol 8: [GeneJET Column Purification](https://github.com/sjc6663/Protocols/b
 
 Protocol 9: [Media Preparation](https://github.com/sjc6663/Protocols/blob/main/wetlab-protocols/media-preparation.md)  
 Protocol 10: [Plating Bacteria](https://github.com/sjc6663/Protocols/blob/main/wetlab-protocols/Plating-bacteria.md)  
-Protocol 11: [Making Glycerol Stocks]  
+Protocol 11: [Making Glycerol Stocks](https://github.com/sjc6663/Protocols/blob/main/wetlab-protocols/glycerol-stock.md)  
 
 
 Protocol 12: [ELISA]  
