@@ -20,8 +20,7 @@ Protocol 13: [ELISA](https://github.com/sjc6663/Protocols/blob/main/wetlab-proto
 ### 16S Library Prep Protocols  
 Protocol 14: [Indexing PCR](https://github.com/sjc6663/Protocols/blob/main/16s-library-prep/indexing-pcr.md)  
 Protocol 15: [Pooling]  
-Protocol 16: [Clean Up]  
-Protocol 17: [Library Quantification and QC]  
+Protocol 16: [Clean Up]    
 
 ## Bioinformatics Protocols
 Protocol 00: [Basic 16S Procedure](https://github.com/sjc6663/Protocols/blob/main/bioinformatics/basic-16s.md)
