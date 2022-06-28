@@ -19,7 +19,7 @@ After completion of PCR, there can be an excessive amount of primers left over w
 1. Vortex AMPure XP bottle for 5-10 seconds to resuspend magnetic beads. Allow to warm to room temperature (at least 30 minutes). 
 2. Add AMPure XP according to the sample reaction volume: 
 Sample Reaction Volume (uL) | AMPure XP Volume (uL)*
-----------------------------|----------------------
+------|------
 10 | 18
 15 | 27
 17 | 31
