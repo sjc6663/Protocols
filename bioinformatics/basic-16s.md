@@ -82,9 +82,9 @@ scp YOURUSERNAME@submit.aci.ics.psu.edu:/pathway/to/multiqcreport/report.html YO
 ### Finish and Move to Local Machine for Downstream Analysis
 
 1. Take one last look through the steps you performed above and note the following: 
-- Are all quality checks recorded?
-- Have you written down the steps that you took (including all parameters for each piece of code) or saved the scripts to your own directory?
-- Have you noted the version of each software you're using?
+- [ ] Are all quality checks recorded?
+- [ ] Have you written down the steps that you took (including all parameters for each piece of code) or saved the scripts to your own directory?
+- [ ] Have you noted the version of each software you're using?
 
 2. Clean up your scripts and directories.
 3. Copy over the final products to your local machine to complete downstream analses in R (Recommended to work with the .RData files since they are built to go straight into phyloseq).
