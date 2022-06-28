@@ -11,6 +11,7 @@
 - [ ] Pipette Tips (300uL, 100uL, 10uL)
 - [ ] Fluorescent Plate Reader
 
+
 - [ ] Qubit dsDNA High Sensitivity Working Solution
 - [ ] Qubit dsDNA High Sensitivity Standards #1 and #2
 - [ ] Qubit tubes
