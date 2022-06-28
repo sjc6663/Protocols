@@ -37,7 +37,7 @@ DMSO | 1uL | 110uL
 KAPA HiFi Polymerase | 0.4uL | 44uL
 **Total** | **6.0uL** | **660uL**
 
-4. To a new 96-well PCR Plate, add:
+4. To a new 96-well PCR Plate, for each well add:
 - [ ] 6uL of Master Mix
 - [ ] 4uL of Indexing Primer
 - [ ] 10uL of Diluted PCR Amplicons
