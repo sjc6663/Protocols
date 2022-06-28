@@ -8,7 +8,7 @@ Protocol 4: [DNA Quantification - Qubit](https://github.com/sjc6663/Protocols/bl
 Protocol 5: [16S PCR](https://github.com/sjc6663/Protocols/blob/main/16S_PCR.md)  
 Protocol 6: [Agarose Gel Electrophoresis](https://github.com/sjc6663/Protocols/blob/main/wetlab-protocols/Gel-Electrophoresis.md)  
 Protocol 7: [AMPure Purification](https://github.com/sjc6663/Protocols/blob/main/wetlab-protocols/Ampure-purification.md)  
-Protocol 8: [GeneJET Column Purification]  
+Protocol 8: [GeneJET Column Purification](https://github.com/sjc6663/Protocols/blob/main/wetlab-protocols/Column-purification.md)  
 
 Protocol 9: [Plating Bacteria]  
 Protocol 10: [Making Glycerol Stocks]  
