@@ -1,1 +1,0 @@
-## AMPure XP Purification
