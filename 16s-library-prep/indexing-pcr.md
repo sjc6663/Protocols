@@ -5,7 +5,9 @@
 - [ ] Turn on the PCR Clean Hood blower and white light. 
 - [ ] Clean the cabinet with 70% ethanol including work surface and walls. 
 - [ ] Turn the dial and run the UV light for at least 10 minutes. 
+
 ⚠️ You cannot expect the glass to protect you from UV exposure. You can be in a different part of the lab while the light is running, but do not loiter in front of the cabinet.
+
 - [ ] Once the timer is up and the UV light turns off, you are ready to begin. 
 
 *Remember, before placing any objects in the hood, they must be sprayed with 70% ethanol.*
