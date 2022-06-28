@@ -2,11 +2,11 @@
 
 ## Wetlab Protocols
 Protocol 1: [Sample Pre-Processing](https://github.com/sjc6663/Protocols/blob/main/wetlab-protocols/sample-processing.md)  
-Protocol 2: [DNA Extraction - Fecal](https://github.com/sjc6663/Protocols/blob/main/DNA_Extraction_Microbiome_Fecal.md)  
-Protocol 3: [DNA Extraction - Bacteria](https://github.com/sjc6663/Protocols/blob/main/DNA_Extraction_Bacteria.md)  
-Protocol 4: [DNA Quantification - Nanodrop](https://github.com/sjc6663/Protocols/blob/main/Quantification_Nanodrop.md)  
+Protocol 2: [DNA Extraction - Fecal](https://github.com/sjc6663/Protocols/blob/main/wetlab-protocols/DNA_Extraction_Bacteria.md)  
+Protocol 3: [DNA Extraction - Bacteria](https://github.com/sjc6663/Protocols/blob/main/wetlab-protocols/DNA_Extraction_Bacteria.md)  
+Protocol 4: [DNA Quantification - Nanodrop](https://github.com/sjc6663/Protocols/blob/main/wetlab-protocols/Quantification_Nanodrop.md)  
 Protocol 5: [DNA Quantification - Qubit](https://github.com/sjc6663/Protocols/blob/main/wetlab-protocols/Quantification_Qubit.md)  
-Protocol 6: [16S PCR](https://github.com/sjc6663/Protocols/blob/main/16S_PCR.md)  
+Protocol 6: [16S PCR](https://github.com/sjc6663/Protocols/blob/main/wetlab-protocols/16S_PCR.md)  
 Protocol 7: [Agarose Gel Electrophoresis](https://github.com/sjc6663/Protocols/blob/main/wetlab-protocols/Gel-Electrophoresis.md)  
 Protocol 8: [AMPure Purification](https://github.com/sjc6663/Protocols/blob/main/wetlab-protocols/Ampure-purification.md)  
 Protocol 9: [GeneJET Column Purification](https://github.com/sjc6663/Protocols/blob/main/wetlab-protocols/Column-purification.md)  
