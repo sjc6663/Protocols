@@ -27,6 +27,7 @@ Sample Reaction Volume (uL) | AMPure XP Volume (uL)*
 20 | 36
 50 | 90
 100 | 180  
+
 *Volume of AMPure XP per reaction = 1.8 x Reaction Volume*
 
 3. Mix reagent and sample by pipette mixing 10 times.
