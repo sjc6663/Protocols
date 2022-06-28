@@ -24,7 +24,7 @@ Protocol 16: [Clean Up]
 Protocol 17: [Library Quantification and QC]  
 
 ## Bioinformatics Protocols
-Protocol 00: [Basic 16S Procedure]
+Protocol 00: [Basic 16S Procedure](https://github.com/sjc6663/Protocols/blob/main/bioinformatics/basic-16s.md)
 
 ## Archived Protocols 
 Protocol A: [DNA Extraction - CORE Kit](https://github.com/sjc6663/Protocols/blob/main/archived-protocols/core-extraction.md)
