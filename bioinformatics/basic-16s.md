@@ -38,7 +38,8 @@ fastq *.fastq -o quality
 # multiqc is a software that needs to be installed
 conda install multiqc
 # then multiqc runs on all fastQC output files and creates a report
-multiqc quality/* -o .```
+multiqc quality/* -o .
+```
 
 ***ROAR cannot open html files, so this needs to be copied over to a local machine so you can open it***
 
