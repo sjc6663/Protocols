@@ -10,9 +10,10 @@ Protocol 6: [Agarose Gel Electrophoresis](https://github.com/sjc6663/Protocols/b
 Protocol 7: [AMPure Purification](https://github.com/sjc6663/Protocols/blob/main/wetlab-protocols/Ampure-purification.md)  
 Protocol 8: [GeneJET Column Purification](https://github.com/sjc6663/Protocols/blob/main/wetlab-protocols/Column-purification.md)  
 
-Protocol 9: [Plating Bacteria](https://github.com/sjc6663/Protocols/blob/main/wetlab-protocols/Plating-bacteria.md)  
-Protocol 10: [Making Glycerol Stocks]  
-Protocol 11: [Media Preparation]  
+Protocol 9: [Media Preparation]  
+Protocol 10: [Plating Bacteria](https://github.com/sjc6663/Protocols/blob/main/wetlab-protocols/Plating-bacteria.md)  
+Protocol 11: [Making Glycerol Stocks]  
+
 
 Protocol 12: [ELISA]  
 
