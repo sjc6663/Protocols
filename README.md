@@ -1,7 +1,7 @@
 # Laboratory Protocols
 
 ## Wetlab Protocols
-Protocol 1: [Sample Pre-Processing]  
+Protocol 1: [Sample Pre-Processing](https://github.com/sjc6663/Protocols/blob/main/wetlab-protocols/sample-processing.md)  
 Protocol 2: [DNA Extraction - Fecal](https://github.com/sjc6663/Protocols/blob/main/DNA_Extraction_Microbiome_Fecal.md)  
 Protocol 3: [DNA Extraction - Bacteria](https://github.com/sjc6663/Protocols/blob/main/DNA_Extraction_Bacteria.md)  
 Protocol 4: [DNA Quantification - Nanodrop](https://github.com/sjc6663/Protocols/blob/main/Quantification_Nanodrop.md)  
