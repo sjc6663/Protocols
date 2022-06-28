@@ -22,6 +22,7 @@
 
 Dilute 5 times in demineralized or distilled water. For one plate, prepare as follows:
 
+**Table 1. Dilution Buffer dilution for one plate.*
 Reagent | Volume
 -----|-----
 Dilution Buffer | 9mL
@@ -31,6 +32,7 @@ Demineralized or Distilled Water | 36mL
 
 Dilute 200 times in demineralized or distilled water. For one plate, prepare as follows:
 
+**Table 2. Washing Solution dilution for one plate.**
 Reagent | Volume
 -----|-----
 Washing Solution | 2.5mL
@@ -59,6 +61,7 @@ Demineralized or Distilled Water | 497.5mL
 
 1. Prepare conjugate dilution by mixing conjugate (component 4) with the dolution buffer working solution prepared above as follows for one plate: 
 
+**Table 3. Conjugate dilution for one plate.**
 Reagent | Volume
 -----|-----
 Conjugate | 0.4mL
@@ -96,6 +99,7 @@ Dilution Buffer Working Solution | 11.6mL
 3.	The percent positivity of the Validation Control must be ≥ 30%. 
 4.	Use the below table to determine the percent positivity interpretation of each of the samples in the test plate. 
 
+**Table 4. Percent positivity value meanings.**
 Percent Positivity Value | Result | Meaning
 ------|------|------
 PP = < 35% | Negative | *Salmonella*-speicific antibodies are absent in test sample
