@@ -25,7 +25,7 @@ Color | Next Steps
 Yellow | Optimal pH, you may proceed
 Orange or Violet | Add 10uL of 3M Sodium Acetate, pH 5.2 and mix
 
-3. For DNA 500bp, add 1:2 volume of 100% isopropanol. Mix thoroughly by pipette. EX: For 15uL of PCR with 15uL Binding Buffer, add 15uL of isopropanol.
+3. For DNA less than 500bp, add 1:2 volume of 100% isopropanol. Mix thoroughly by pipette. EX: For 15uL of PCR with 15uL Binding Buffer, add 15uL of isopropanol.
 4. Transfer 800uL of the solution to the GeneJET Purification Column.
 5. Centrifuge for 30-60s and discard the flow through. 
 6. Add 700uL of Wash Buffer to the column.
