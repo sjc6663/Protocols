@@ -7,6 +7,7 @@ Column purification is another method of removing unwanted primer dimers from yo
 
 If this is your first use of the kit, you need to dilute the Wash Buffer with 100% ethanol as follows: 
 
+**Table. 1 Wash Buffer dilution preparation.**
 Reagent | 50 Preps | 250 Preps
 ------|------|------
 Wash Buffer (concentrated) | 9mL | 45mL
@@ -20,6 +21,7 @@ Total | 54mL | 270mL
 1. Add 1:1 Volume Binding Buffer to PCR Mixture. 
 2. Check the Color: 
 
+**Table 2. Color determination of samples for optimal pH.**
 Color | Next Steps
 -----|-----
 Yellow | Optimal pH, you may proceed
