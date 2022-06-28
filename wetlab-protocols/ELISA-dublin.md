@@ -15,7 +15,6 @@
 - [ ] Serological Pipette Tips (50mL, 25mL, 5mL)
 - [ ] 50mL Conical Tubes
 - [ ] Glass Flask
-- [ ] 
 
 ## Prepare Solutions
 
