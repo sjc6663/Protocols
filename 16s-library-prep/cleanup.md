@@ -17,10 +17,14 @@
 3. Place tube onto magnet rack and capture for 3 minutes.
 5. **KEEPING THE TUBE ON THE MAGNET**, aspirate and discard the supernatant. 
 6. Remove from magnet, add 200uL fresh 80% ethanol. Briefly pipette to mix. 
-7. Place on magnet rack and capture. Aspirate and discard ethanol.
-8. Remove from magnet, add 200uL fresh 80% ethanol. Briefly pipette to mix. 
-9. Place on magnet rack and capture. Aspirate and discard ethanol. 
-10. Briefly centrifuge, recapture and aspirate any residual ethanol at bottom of the tube. Discard. 
-11. Airdry beads for 5 minutes at room temperature until no visible ethanol remains. 
-12. Add 35uL of nuclease free water and mix well. 
-13. Place on magnet rack and capture. Transfer supernatant to a fresh tube and quantify using Nanodrop and/or Qubit. 
+7. Place on magnet rack and capture. 
+8. **KEEPING THE TUBE ON THE MAGNET**, aspirate and discard ethanol.
+9. Remove from magnet, add 200uL fresh 80% ethanol. Briefly pipette to mix. 
+10. Place on magnet rack and capture. 
+11. **KEEPING THE TUBE ON THE MAGNET**, aspirate and discard ethanol. 
+12. Briefly centrifuge, and recapture. 
+13. **KEEPING THE TUBE ON THE MAGNET**, aspirate any residual ethanol at bottom of the tube. Discard. 
+14. **KEEPING THE TUBE ON THE MAGNET**, airdry beads for 5 minutes at room temperature until no visible ethanol remains. 
+15. Remove from magnet, and add 35uL of nuclease free water and mix well. 
+16. Place on magnet rack and capture. 
+17. **KEEPING THE TUBE ON THE MAGNET**, transfer supernatant to a fresh tube and quantify using Nanodrop and/or Qubit. 
