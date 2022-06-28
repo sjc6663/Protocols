@@ -15,7 +15,7 @@ Protocol 10: [Plating Bacteria](https://github.com/sjc6663/Protocols/blob/main/w
 Protocol 11: [Making Glycerol Stocks](https://github.com/sjc6663/Protocols/blob/main/wetlab-protocols/glycerol-stock.md)  
 
 
-Protocol 12: [ELISA]  
+Protocol 12: [ELISA](https://github.com/sjc6663/Protocols/blob/main/wetlab-protocols/ELISA-dublin.md)  
 
 ### 16S Library Prep Protocols  
 Protocol 13: [Indexing PCR]  
