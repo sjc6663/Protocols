@@ -1,6 +1,6 @@
 # Sample Pre-Processing
 
-## BOOT SOCKS (Stomacher)
+## 🥾 BOOT SOCKS (Stomacher)
 
 ### Prepare Your Workspace
 
@@ -32,7 +32,7 @@ For aliquoting water, work in the Biological Safety Cabinet.
 4. Using 5mL Serological Pipette, remove 3-4mL of homogenate squeezed out of boot socks and aliquot into two (2) labeled 2.0mL tubes. The amount aliquoted can be approximate, just make sure to leave enough space to allow for expansion when freezing.
 5. Store at -80dC. 
 
-## PAPERS (Stomacher)
+## 🧻 PAPERS (Stomacher)
 
 ### Prepare Your Workspace
 
@@ -64,7 +64,7 @@ For aliquoting water, work in the Biological Safety Cabinet.
 4. Using 5mL Serological Pipette, remove 3-4mL of homogenate squeezed out of boot socks and aliquot into two (2) labeled 2.0mL tubes. The amount aliquoted can be approximate, just make sure to leave enough space to allow for expansion when freezing.
 5. Store at -80dC. 
 
-## SWABS (Bead Ruptor)
+## 🦠 SWABS (Bead Ruptor)
 
 ### Prepare Your Workspace
 
@@ -99,7 +99,7 @@ For aliquoting water, work in the Biological Safety Cabinet.
 7. Homogenize tubes for 30 minutes in Bead Ruptor at 20Hz.
 8. Store in -80dC. 
 
-## MURINE FECES (Bead Ruptor)
+## 🐭 MURINE FECES (Bead Ruptor)
 
 ### Prepare Your Workspace
 
