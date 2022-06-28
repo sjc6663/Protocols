@@ -16,6 +16,12 @@ Protocol 11: [Media Preparation]
 
 Protocol 12: [ELISA]  
 
+### 16S Library Prep Protocols  
+Protocol 13: [Indexing PCR]  
+Protocol 14: [Pooling]  
+Protocol 15: [Clean Up]  
+Protocol 16: [Library Quantification and QC]  
+
 ## Bioinformatics Protocols
 
 
