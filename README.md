@@ -27,4 +27,5 @@ Protocol 16: [Library Quantification and QC]
 
 
 ## Archived Protocols
-Protocol A: [Sample Pre-Processing]
+Protocol A: [Sample Pre-Processing]  
+Protocol B: [DNA Extraction - CORE Kit]
