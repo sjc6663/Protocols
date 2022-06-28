@@ -82,6 +82,8 @@ Dilution Buffer Working Solution | 11.6mL
 4.	Calculate the corrected OD value of the Positive Control and Validation Controls by subtracting the mean OD of the Negative Control.
 5.	Calculate the percent positivity of all controls and test samples using the below formula: 
 
+![fig1](https://github.com/sjc6663/Protocols/blob/9679b649147a33aa001c8b9b2122448868478676/images/sal-dub-formula.png)  
+**Figure 1. Forumla for calculating percent positivity.**
 
 ## Result Interpretation
 
