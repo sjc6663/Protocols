@@ -83,6 +83,17 @@ Dilution Buffer Working Solution | 11.6mL
 5.	Calculate the percent positivity of all controls and test samples using the below formula: 
 
 
+## Result Interpretation
+
+1.	The mean OD of the Negative Control must be < 0.4.
+2.	The OD of the Positive Control (not corrected) should be > 1.000.
+3.	The percent positivity of the Validation Control must be ≥ 30%. 
+4.	Use the below table to determine the percent positivity interpretation of each of the samples in the test plate. 
+
+Percent Positivity Value | Result | Meaning
+------|------|------
+PP = < 35% | Negative | *Salmonella*-speicific antibodies are absent in test sample
+PP = > 35% | Positive | *Salmonella*-speicific antibodies are present in test sample
 
 
 
