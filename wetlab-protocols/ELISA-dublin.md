@@ -22,7 +22,7 @@
 
 Dilute 5 times in demineralized or distilled water. For one plate, prepare as follows:
 
-**Table 1. Dilution Buffer dilution for one plate.*
+**Table 1. Dilution Buffer dilution for one plate.**
 Reagent | Volume
 -----|-----
 Dilution Buffer | 9mL
