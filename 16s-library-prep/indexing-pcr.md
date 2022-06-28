@@ -33,7 +33,7 @@ Reagent | 1 Reaction (20uL) | 110 Reactsion (Full Plate)
 10mM dNTPs | 0.6uL | 66uL
 DMSO | 1uL | 110uL
 KAPA HiFi Polymerase | 0.4uL | 44uL
-**Total | 6.0uL | 660uL**
+**Total** | **6.0uL** | **660uL**
 
 4. To a new 96-well PCR Plate, add:
 - [ ] 6uL of Master Mix
