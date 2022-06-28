@@ -17,6 +17,9 @@ This is a basic protocol for 16S sequencing processing from raw files to ASV tab
 ### Inspect the raw fastq files
 
 1. Activate the bioinfo conda environment  
-``` conda activate bioinfo ```
-2. Open a fastq file and inspect the first 20 lines  
+
+``` conda activate bioinfo ```  
+
+2. Open a fastq file and inspect the first 20 lines - Each read should have a header that starts with "@," a sequencer identifier, and the sequence on the next line. The third line starts with a "+" and the same sequence identifier, and the fourth line has quality information (different letters and symbols).  
 ``` head FILE.fastq ```
+3. Inspect number and distribution of raw reads
